@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishesh Shahani</h1>
-<h3 align="center">A Full Stack Web Developer by Profession and currently in the process of learning Game Development</h3>
+<h3 align="center">Vurrently in the process of learning Game Development</h3>
 
 - 🔭 I’m currently working on **A Secret Project**
 
