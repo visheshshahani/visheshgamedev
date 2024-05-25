@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game Development**
 
-- 👯 I’m looking to collaborate on **Any game development project I can**
+- 👯 I’m looking to collaborate on **any game development project I can**
 
 - 📫 How to reach me **visheshshahani@gmail.com**
 
